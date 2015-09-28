@@ -40,10 +40,10 @@ nmap <leader>bq :bp <BAR> bd #<CR>
 nmap <leader>bl :ls<CR>
 
 " Disable arrows for navigating
-map <Left> <Nop>
-map <Right> <Nop>
-map <Up> <Nop>
-map <Down> <Nop>
+#map <Left> <Nop>
+#map <Right> <Nop>
+#map <Up> <Nop>
+#map <Down> <Nop>
 
 nmap <silent> <Up> :wincmd k<CR>
 nmap <silent> <Down> :wincmd j<CR>
